@@ -1,0 +1,7 @@
+Continue on line 59 of PointAndTeleport.cs (Working on the locomotion manager | Making a class for each locomotion method | Call enable to apply the new properties)
+
+Call SetLocomotionControllers() then Enable() from LocomotionManager to Set active locomotion method
+
+Add drop down menu to inspector for LocomotionManager to select the current active Locomotion method(call the relative funcs to disable the current method and enable the next)
+
+(Perhaps figure out a better way of setting the component perameters for each Locomotion method[in inspector instead of code])
